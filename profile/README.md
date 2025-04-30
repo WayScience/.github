@@ -7,7 +7,7 @@ Our website contains complete details of our research projects, team members, an
 
 Check out a few of our open-source projects!
 
-## Publications
+## Select Publications
 
 >  Tomkinson, J., Kern, R., Mattson, C. et al. Toward generalizable phenotype prediction from single-cell morphology representations. BMC Methods 1, 17 (2024). doi: [https://doi.org/10.1186/s44330-024-00014-3](https://doi.org/10.1186/s44330-024-00014-3); GitHub Repository: https://github.com/WayScience/phenotypic_profiling/
 
@@ -17,7 +17,7 @@ Check out a few of our open-source projects!
 
 > Tomkinson, J., Mattson, M., Mattson-Hoss, M. et al. High-content microscopy and machine learning characterize a cell morphology signature of NF1 genotype in Schwann cells. BioRxiv (2025). doi: [https://doi.org/10.1101/2024.09.11.612546](https://doi.org/10.1101/2024.09.11.612546)
 
-## Software
+## Select Software
 
 - coSMicQC: https://github.com/WayScience/coSMicQC
 - Pycytominer: https://github.com/cytomining/pycytominer
@@ -27,7 +27,7 @@ Check out a few of our open-source projects!
 - nViz: https://github.com/WayScience/nViz
 - virtual_stain_flow: https://github.com/WayScience/virtual_stain_flow
 
-## Projects
+## Select Projects
 
 We are leading multidisciplinary scientists in a variety of team-science initiatives.
 
