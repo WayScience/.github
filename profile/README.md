@@ -3,7 +3,7 @@ Welcome to the open-source GitHub organization hosted by The Way Lab.
 We are a team of scientists and engineers developing methods and software for analyzing microscopy images of cells.
 Our mission is to reduce human suffering.
 
-Our website contains complete details of our research projects, team members, and funding: https://www.waysciencelab.com/ 
+Our website contains complete details of our research projects, team members, and funding: https://www.waysciencelab.com/
 
 Check out a few of our open-source projects!
 
@@ -15,7 +15,7 @@ Check out a few of our open-source projects!
 
 > Serrano, E., Chandrasekaran, S.N., Bunten, D. et al. Reproducible image-based profiling with Pycytominer. Nature Methods (2025). doi: [https://doi.org/10.1038/s41592-025-02611-8](https://doi.org/10.1038/s41592-025-02611-8); GitHub Repository: https://github.com/cytomining/pycytominer
 
-> Tomkinson, J., Mattson, M., Mattson-Hoss, M. et al. High-content microscopy and machine learning characterize a cell morphology signature of NF1 genotype in Schwann cells. BioRxiv (2025). doi: [https://doi.org/10.1101/2024.09.11.612546](https://doi.org/10.1101/2024.09.11.612546)
+> Tomkinson, J., Mattson, C., Mattson-Hoss, M. et al. High-content microscopy and machine learning characterize a cell morphology signature of NF1 genotype in Schwann cells. BioRxiv (2025). doi: [https://doi.org/10.1101/2024.09.11.612546](https://doi.org/10.1101/2024.09.11.612546)
 
 ## Select Software
 
