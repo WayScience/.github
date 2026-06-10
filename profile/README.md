@@ -7,24 +7,13 @@ Our website contains complete details of our research projects, team members, an
 
 Check out a few of our open-source projects!
 
-## Select Publications
-
->  Tomkinson, J., Kern, R., Mattson, C. et al. Toward generalizable phenotype prediction from single-cell morphology representations. BMC Methods 1, 17 (2024). doi: [https://doi.org/10.1186/s44330-024-00014-3](https://doi.org/10.1186/s44330-024-00014-3); GitHub Repository: https://github.com/WayScience/phenotypic_profiling/
-
->  Lippincott, M.J., Tomkinson, J., Bunten, D. et al. A morphology and secretome map of pyroptosis. Molecular Biology of the Cell doi: [https://doi.org/10.1101/2024.04.26.591386](https://doi.org/10.1091/mbc.E25-03-0119); GitHub Repository: https://github.com/WayScience/pyroptosis_signature_data_analysis
-
-> Serrano, E., Chandrasekaran, S.N., Bunten, D. et al. Reproducible image-based profiling with Pycytominer. Nature Methods (2025). doi: [https://doi.org/10.1038/s41592-025-02611-8](https://doi.org/10.1038/s41592-025-02611-8); GitHub Repository: https://github.com/cytomining/pycytominer
-
-> Tomkinson, J., Mattson, C., Mattson-Hoss, M. et al. High-content microscopy and machine learning characterize a cell morphology signature of NF1 genotype in Schwann cells. BioRxiv (2025). doi: [https://doi.org/10.1101/2024.09.11.612546](https://doi.org/10.1101/2024.09.11.612546)
-
 ## Select Software
 
 - coSMicQC: https://github.com/WayScience/coSMicQC
 - Pycytominer: https://github.com/cytomining/pycytominer
 - CytoTable: https://github.com/cytomining/cytotable
 - CytoDataFrame: https://github.com/WayScience/CytoDataFrame
-- 3D Organoid Profiling: https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline
-- nViz: https://github.com/WayScience/nViz
+- ZEDprofiler: https://github.com/WayScience/ZedProfiler
 - virtual_stain_flow: https://github.com/WayScience/virtual_stain_flow
 
 ## Select Projects
